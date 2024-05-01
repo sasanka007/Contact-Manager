@@ -21,8 +21,8 @@ Follow these steps to set up the project locally.
 ### 1. Clone the repository
 
 Clone the project repository by running:
-git clone https://github.com/your-username/your-project-name.git
-cd your-project-name
+git clone https://github.com/sasanka007/Contact-Manager.git
+cd Contact-Manager
 
 
 ### 2. Setup Backend
@@ -57,8 +57,8 @@ This will launch the Node.js server on `http://localhost:5000`.
 Open a new terminal window, navigate to the frontend directory, and run:
 npm start
 This command will start the React application on `http://localhost:3000`.
-Note: "/create" route in the client can be used to create a new entry for a contact.
 
 ## Usage
 After starting both servers, open a web browser and visit `http://localhost:3000` to interact with the application. You can view, add, or download contacts from the UI.
+Note: "/create" route in the client can be used to create a new entry for a contact.
 
